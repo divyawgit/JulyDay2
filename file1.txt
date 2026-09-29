@@ -1,1 +1,66 @@
 This is my file1
+ Id CommandLine                                                                                                     
+  -- -----------                                                                                                     
+   1 try { . "c:\Users\divya\AppData\Local\Programs\Microsoft VS Code\04c0d99f4f\resources\app\out\vs\workbench\co...
+   2 git --version                                                                                                   
+   3 git init                                                                                                        
+   4 git add .                                                                                                       
+   5 git commit -m "c1"                                                                                              
+   6 git log --oneline                                                                                               
+   7 git log                                                                                                         
+   8 git branch                                                                                                      
+   9 git remote add origin https://github.com/divyawgit/JulyDay2.git                                                 
+  10 git push -u origin main                                                                                         
+  11 git add .                                                                                                       
+  12 git commit -m "c2"                                                                                              
+  13 git log                                                                                                         
+  14 git push                                                                                                        
+  15 git log --oneline                                                                                               
+  16 git branch                                                                                                      
+  17 git branch mutualfunds                                                                                          
+  18 git branch                                                                                                      
+  19 git switch mutualfunds                                                                                          
+  20 git branch                                                                                                      
+  21 git add .                                                                                                       
+  22 git commit -m "intial commit mf"                                                                                
+  23 git log                                                                                                         
+  24 git switch main                                                                                                 
+  25 git log                                                                                                         
+  26 git switch mutualfunds                                                                                          
+  27 git log                                                                                                         
+  28 git add .                                                                                                       
+  29 git commit -m "mf 2nd commit"                                                                                   
+  30 git log                                                                                                         
+  31 git switch main                                                                                                 
+  32 git switch mutualfunds                                                                                          
+  33 git switch main                                                                                                 
+  34 git switch mutualfunds                                                                                          
+  35 git switch main                                                                                                 
+  36 git merge mutualfunds                                                                                           
+  37 git log                                                                                                         
+  38 git log --oneline                                                                                               
+  39 git branch                                                                                                      
+  40 git push                                                                                                        
+  41 git branch -d mutualfunds                                                                                       
+  42 git branch                                                                                                      
+  43 git branch UPI                                                                                                  
+  44 git branch                                                                                                      
+  45 git switch UPI                                                                                                  
+  46 git switch main                                                                                                 
+  47 git merge UPI                                                                                                   
+  48 git log                                                                                                         
+  49 git status                                                                                                      
+  50 dir                                                                                                             
+  51 git add .                                                                                                       
+  52 git commit -m "UPI intial commit"                                                                               
+  53 git switch main                                                                                                 
+  54 git branch -d UPI                                                                                               
+  55 git branch -D UPI                                                                                               
+  56 git branch                                                                                                      
+  57 git branch stocks                                                                                               
+  58 git branch -d stocks                                                                                            
+  59 git checkout stocks                                                                                             
+  60 git checkout -b stocks                                                                                          
+  61 git add . | git commit -m " stocks intial commit"                                                               
+  62 git log --oneline                                                                                               
+  63 git push -u origin stocks 
